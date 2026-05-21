@@ -1,0 +1,13 @@
+{
+  "name": "yasmin-website-live",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.19.2",
+    "ws": "^8.18.0"
+  }
+}
